@@ -1,4 +1,4 @@
-# TinDog Project
+# Lovy Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
@@ -56,7 +56,7 @@ We have all the dogs, the greatest dogs.
 Guaranteed to work.
 Find the love of your dog's life or your money back.
 
-"I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof."
+"I no longer have to sniff other dogs for love. I've found the hottest Corgi on Lovy. Woof."
 Pebbles, New York
 
 A Plan for Every Dog's Needs
